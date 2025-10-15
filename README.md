@@ -1,1 +1,1 @@
-# JS
+JS labaratorijske vjezbe
